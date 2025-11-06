@@ -3,7 +3,6 @@
 # Answer the following questions using the provided JSON 
 
 Qus-1 : Write a function that takes a category (e.g., "Electronics") as input and returns an array of product names (strings) for that category, sorted alphabetically. 
-
 Example output for "Electronics": ["Bluetooth Speaker", "Digital Camera", "Laptop Pro X", "Smart Watch", "Wireless Headphones"]
 
 Qus-2 : Write a function that returns an array of objects containing each product’s name and its average rating (rounded to 2 decimal places) based on the reviews. Example 
